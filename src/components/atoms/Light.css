@@ -1,0 +1,20 @@
+.light {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: gray;
+  }
+  
+  .light.red.on {
+    background-color: red;
+  }
+  
+  .light.yellow.on {
+    background-color: yellow;
+  }
+  
+  .light.green.on {
+    background-color: green;
+  }
+  
